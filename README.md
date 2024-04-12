@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PascalGrie
 - 👀 I’m interested in Coding for BI in Production and Data Science in Production
-- 🌱 I’m currently learning APIs for sending and retrieving data from sensors
+- 🌱 I’m currently learning Rust for the usage in Production Control.
 - 💞️ I’m looking to collaborate on Data Science projects in a productive environment (e.g. predictive quality)
 
 <!---
